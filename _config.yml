@@ -1,11 +1,11 @@
 # Site settings
 author: Keith Isham
-title: 
+title: Introduction
 header-img: img/home-bg.png
 email: kisham8899@gmail.com
 copyright_name: Keith Isham
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A short story into programming and into Flatiron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  necrio
