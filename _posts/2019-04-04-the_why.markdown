@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "The *why*****"
+date:       2019-04-04 23:50:02 +0000
+permalink:  the_why
+---
+
+
+It started with an interest in trying something new while I was in high school. I was taking some online classes to try to graduate and I was offered a "web development" course. It was to learn some very basic and static HTML to build a couple simple websites. 
+
+I was interested and it was fun. But after that, I never did anything related to it again for a long time. Over the years, I would google how to program, what language to learn first, or something along those lines. But I never got too far into any one language. Do I learn Java? Javascript? Python? Whats the differences? 
+
+I learned the basic variables and functions of those then got bored and quit. I did not see an "end goal" or a reason to continue forward. 
+
+In 2017, I got into indie game development! It was super fun. The easiest thing for me to get done the soonest was the programming side. I got pretty good at. At least compared to those of my level. But I still had so much to learn and I am very eager to learn more! 
+
+I join Flatiron not only to get new job and learning experiences, but to hopefully learn how to *learn* code better. So I could get even better at my hobby as an indie game developer. 
